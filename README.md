@@ -108,4 +108,4 @@ india-paper-leaks-analysis/
 ├── README.md
 │
 └── PowerBI/
-    └── India_Paper_Leaks_Dashboard.pbix
+    └── India_Paper_Leaks.pbix
