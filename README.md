@@ -87,8 +87,11 @@ Therefore, the model should **not** be interpreted as a predictor of whether a f
 
 ## 📈 Power BI Dashboard
 
-The Power BI dashboard presents:
+The Power BI dashboard provides an interactive overview of recorded paper-leak incidents in India.
 
+![India Paper Leak Analysis Dashboard](PowerBI/dashboard_preview.png)
+
+The dashboard includes:
 - Total recorded incidents
 - Confirmed incidents
 - Year-wise incident trends
